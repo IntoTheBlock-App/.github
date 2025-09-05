@@ -1,7 +1,7 @@
 # IntoTheBlock – Advanced Crypto Analytics Platform  
 
 <p align="center">
-  <img src="https://images.seeklogo.com/logo-png/40/2/intotheblock-logo-png_seeklogo-406471.png" alt="IntoTheBlock Logo" width="220"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNTk8m1gNtY7Nsw1ARNIy9fM2_YfB_TsFbXg&s" alt="IntoTheBlock Logo" width="600"/>
 </p>  
 
 <p align="center">
